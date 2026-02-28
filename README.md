@@ -1,4 +1,3 @@
-#Daculan, John Lowell G. 601P
 """
 Created on Sat Feb 28 13:20:40 2026
 
@@ -23,6 +22,7 @@ plt.plot(mu, uniform_dist, label = 'Uniform Dist')
 plt.xlabel("Value of $\\mu$ in meters")
 plt.ylabel("Probability density")
 plt.legend()
+plt.show()
 
 #2 The LIKELIHOOD
 
